@@ -1,13 +1,13 @@
-Crimson
-Orange
+Teal
+Tangerine
 Blue
-Cyan
-Yellow
-Charcoal
-Khaki
-Coral
-Silver
-Fuchsia
-Purple
-Brown
-Red
+Aqua
+Mustard
+Jet Black
+Olive
+Peach
+Platinum
+Magenta
+Lavender
+Chestnut
+Scarlet
